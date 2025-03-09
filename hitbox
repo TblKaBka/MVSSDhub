@@ -20,9 +20,9 @@ label.Parent = main
 label.BackgroundColor3 = Color3.fromRGB(238,130,238)
 label.Size = UDim2.new(0, 100, 0, 20)
 label.Font = Enum.Font.SourceSans
-label.Text = "TG: @kk0101010"
+label.Text = "TblKaBka"
 label.TextColor3 = Color3.fromRGB(0, 0, 0)
-label.TextScaled = false
+label.TextScaled = true
 label.TextSize = 17.000
 label.TextWrapped = true
  
